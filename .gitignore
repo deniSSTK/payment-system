@@ -1,0 +1,17 @@
+/tmp
+/out-tsc
+
+/node_modules
+/dist
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/.pnp
+.pnp.js
+*.tsbuildinfo
+.DS_Store
+coverage
+
+.vscode
+.idea
